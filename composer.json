@@ -22,6 +22,6 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "psr-4": { "miradnan\\elasticsearch\\": "" }
+        "psr-4": { "yii\\elasticsearch\\": "" }
     }
 }
